@@ -3,7 +3,7 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler
-Replaces: 
+Replaces:
 Filename: ./debs/com.deadtweak.com_1.7.1_iphoneos-arm.deb
 Size: 5085850
 MD5sum: f6eb394ca1948f7807149633df791d2d
@@ -11,8 +11,7 @@ SHA1: 8dc2863173ba678916b3c2ec12b750e3beab5794
 SHA256: 682f5b81d2d9e7985b9935743a97ea6513b779fe92e8318e74a2ad7b9630cab7
 Section: Tweaks
 Description: No more description.
-Author: Dead guy
-Name: DeadTweak
+Author: حبر تقني
+Name: حبر تقني
 Priority: optional
-dev: Dead guy
-
+dev: حبر تقني
