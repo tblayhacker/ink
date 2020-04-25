@@ -14,23 +14,23 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Snapchat Tweak for Testing"
+					"markdown": "تعديل حبرتقني"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Information",
-					"class": "DepictionHeaderView"
+					"class": "تعديل حبرتقني"
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.7.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Last Updated",
-					"text": "September 15, 2019",
+					"text": "april 25, 2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,27 +40,27 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 10.0 - 12.4",
+					"text": "iOS 12.4 - 13.4.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "Shiar",
+					"text": "AmooOooDi",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "Shiar",
+					"text": "AmooOooDi",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Contact Developer",
-					"action": "mailto:abc@gmail.com",
+					"action": "mailto:tblay.hacker@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "mailto:abc@gmail.com",
+					"action": "mailto:tblay.hacker@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -78,7 +78,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "1.7.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"

@@ -1,11 +1,11 @@
 <package>
-	<id>com.shiarahmed.snapchat</id>
+	<id>com.deadtweak.com</id>
 	<name>Snapchat</name>
-	<version>1.0</version>
+	<version>1.7.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>12.4</miniOS>
+			<maxiOS>13.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -14,8 +14,8 @@
 	</dependencies>
 	<shortDescription>Snapchat tweak</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
-		<description>Supports iOS 10.0 - 12.4</description>
+		<description>تعديل حبرتقني</description>
+		<description>Supports iOS 12.4 - 13.4.1</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
